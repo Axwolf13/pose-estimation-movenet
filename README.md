@@ -6,6 +6,8 @@ Code, trained model and evaluation data behind my first-author paper in **Sādha
 
 **Try it live:** the trained classifier from this repo runs in your browser at [axwolf13.github.io/demo](https://axwolf13.github.io/demo/), MoveNet Lightning tracks your webcam and the 28 KB head below names the asana.
 
+This work grew out of my 2023 B.Tech comparative study of MoveNet Lightning, MoveNet Thunder and OpenPose on real-time feeds; that study picked the backbones this paper builds on.
+
 ## Results
 
 | Metric | Value |
